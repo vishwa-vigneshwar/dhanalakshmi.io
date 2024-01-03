@@ -62,6 +62,16 @@ body {
   text-align: center;
   font-family: 'Lobster', cursive;
   font-style: italic;
+  font-size: 70px;
+  text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.15), 1px 1px 0 #ffc8c8, 2px 2px 0 #ff9696, 3px 3px 0 #ff7d7d;
+  color: #FFF;
+}
+
+
+#card h2 {
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  font-style: italic;
   font-size: 40px;
   text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.15), 1px 1px 0 #ffc8c8, 2px 2px 0 #ff9696, 3px 3px 0 #ff7d7d;
   color: #FFF;
